@@ -1,0 +1,5 @@
+{
+  "name": "RoomCast AI",
+  "description": "An Image Feed + Chatbot platform that ingests room images, produces AI descriptions, updates a real-time room feed timeline, and supports natural-language chat about current/past room states.",
+  "requestFramePermissions": []
+}
